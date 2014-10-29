@@ -1,0 +1,21 @@
+# Ignore images
+/art
+
+# Ignore pdfs
+/brochures
+
+# Ignore hosting artifacts
+/HostingStuff
+
+# Ignore work in progress stuff
+/wip
+
+# Mac OSX artifacts
+.DS_Store
+
+# Backup files
+*.bak
+
+# Log files
+*.log
+*.LOG

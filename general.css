@@ -1,0 +1,160 @@
+H9 {}
+BODY
+{
+    BACKGROUND-COLOR: white;
+}
+H1
+{
+  font-size:14pt;
+  font-family:Tahoma,Verdana,Helvetica,Arial,sans-serif;
+  font-style:italic;
+  font-weight:bold;
+  color:#333333;
+  text-align:center;
+}
+
+H2
+{
+  font-size:10pt;
+  font-family:Tahoma,Verdana,Helvetica,Arial,sans-serif;
+  font-weight:bold;
+  color:#333333;
+  text-align:center;
+}
+
+H3
+{
+  font-size:10pt;
+  font-family:Tahoma,Verdana,Helvetica,Arial,sans-serif;
+  font-style:italic;
+  font-weight:bold;
+  color:#333333;
+  text-align:center;
+}  /* Used sparingly for emphasis */
+
+P, LI, TD, div
+{
+  font-size:10pt;
+  font-family:Tahoma,Verdana,Helvetica,Arial,sans-serif;
+  color:#333333;
+}
+
+.clsPropertyTourText
+{
+  text-align:left
+}   /* This style is used to align text elsewhere besides the Property Tour */
+
+.clsPhaseIVText
+{
+  text-align:center
+}
+
+.clsNavBarBottom
+{
+  font-size:8pt;
+  color:#006699;
+  font-weight:normal;
+  text-align:center;
+}
+
+.clsNavBarTop
+{
+  font-size:9pt;
+  color:#FFFFFF;
+  text-align:center;
+}
+
+.clsNavSidebar
+{
+font-size:9pt;
+font-weight:bold;
+color:#FFFFFF;
+text-align:center;
+}   /* NEW This style is used for links in white text in the blue sidebar */
+
+.clsNavAvailSpace
+{
+  font-size:10pt;
+  font-weight:bold;
+  color:#FFFF00;
+  text-align:center;
+}  /* Sets off Current Available Space link from other text in blue sidebar at left */
+
+.clsSidebarYellow
+{
+  font-size:8pt;
+  font-weight:bold;
+  color:#FFFF99;
+  text-align:center
+}
+
+A
+{
+  text-decoration:none
+}
+A:HOVER
+{
+  text-decoration:underline
+}
+
+.clsAnchorLightOnDark
+{
+  color:#FFFFFF;
+}   /* Keep white links white after they have been visited */
+
+.clsAnchorDarkOnLight
+{
+  color:#006699;
+}
+
+.clsAnchorSidebarYellow
+{
+  color:#FFFF99;
+}  /* Keep yellow links yellow after they have been visited */
+
+.clsAnchorAvailSpace
+{
+	font-size:12pt;
+  color:#FFFF00;
+}  /* Keeps bright yellow link yellow after visited */
+
+.clsAnchorCurPage
+{
+ color:#CCFFFF;
+} /* Distinguishes link of current page from other links */
+
+.clsAnchorFeaturedProperty
+{
+  color:#006699;
+  font-weight:bold;
+}/* Emphasizes individual links of Featured Property section on home page.*/
+
+
+.clsTitleLeft
+{
+  font-size:12pt;
+  font-family:Tahoma,Verdana,Helvetica,Arial,sans-serif;
+  font-weight:bold;
+  color:#333333;
+  text-align:left;
+}  /* Used on Map page to align Jetplex text at top */
+
+.clsTitleRight
+{
+  font-size:12pt;
+  font-family:Tahoma,Verdana,Helvetica,Arial,sans-serif;
+  font-weight:bold;
+  color:#333333;
+  text-align:right;  
+} /* Used on Map page to align Area Map text at top */
+
+.clsFeaturedPropertyText
+{
+  font-size:12pt;
+  font-family:Tahoma,Verdana,Helvetica,Arial,sans-serif;
+  font-weight:bold;
+  color:#990066;
+  text-align:left;
+} /* Used on home page to set off Featured Property text */
+
+  
